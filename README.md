@@ -6,7 +6,7 @@ An application for users to create their decks and practice their knowledge. Thi
 
 > This ordered list of terminal commands will get you a copy of the project to run on your local machine.
 
-`git clone https://github.com/garba/flashcards.git`
+`git clone https://github.com/daltongarbin/flashcards.git`
 
 `cd flashcards`
 
